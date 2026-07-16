@@ -36,6 +36,8 @@ Function Merge(Left, Right)
 
 Display the sorted array
 STOP
+
+
 **QUESTION 2 **
 Algorithm: Search Engine Index Builder
 START
